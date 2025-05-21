@@ -54,4 +54,4 @@ Clone the repository and open the notebook in Jupyter or run it directly in Goog
 
 ## 🔗 Connect with Me
 📧 kanishka96se@gmail.com  
-🌐 [LinkedIn]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/kanishka96/)) | [GitHub](https://github.com/Kanishka96ac)
+🌐 [LinkedIn](https://www.linkedin.com/in/kanishka96/) | [GitHub](https://github.com/Kanishka96ac)
